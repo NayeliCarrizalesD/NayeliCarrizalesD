@@ -4,11 +4,13 @@
 > Useful information that users should know, even when skimming content.
 --->
 # 🌱 About me
-I am an information and communication technology engineer with a focus on Front-end, responsible, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
+I am an information and communication technology engineer with a focus on Front-end, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
+# 💻 My tech stack
 - 👀 I’m interested in ...
 <!--- 🌱 I’m currently learning ...-->
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 📫 My social networks are:
+-  
 - 😄 Pronouns: She / her 
 - ⚡ Fun fact: ...
 

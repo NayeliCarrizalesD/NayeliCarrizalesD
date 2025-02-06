@@ -6,15 +6,7 @@
 # 🌱 About me
 I am an information and communication technology engineer with a focus on Front-end, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
 # 💻 My tech stack
-
-
-
-
 ![vercel](https://github.com/user-attachments/assets/e87f2120-f69e-4e74-b68c-b7c2852cf249)
-
-
-
-
 - 👀 I’m interested in ...
 <!--- 🌱 I’m currently learning ...-->
 - 💞️ I’m looking to collaborate on ...

@@ -6,6 +6,24 @@
 # 🌱 About me
 I am an information and communication technology engineer with a focus on Front-end, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
 # 💻 My tech stack
+![image](https://github.com/user-attachments/assets/3c033eac-d696-4d93-9418-56d618b9ee31)
+![image](https://github.com/user-attachments/assets/2c5dd5e2-dba1-40e2-a291-b56a0c3422cb)
+![image](https://github.com/user-attachments/assets/c56098d8-2837-4eed-8b18-febac2a48da3)
+
+
+
+![image](https://github.com/user-attachments/assets/000e329e-ce8f-480a-8661-64610efabab2)
+
+![image](https://github.com/user-attachments/assets/f84f1153-0c59-4d1b-bb48-dc9ef8e54c64)
+![image](https://github.com/user-attachments/assets/b6d19395-f006-4d8c-9101-37f271f65fe5)
+
+
+
+![vercel](https://github.com/user-attachments/assets/e87f2120-f69e-4e74-b68c-b7c2852cf249)
+
+
+
+
 - 👀 I’m interested in ...
 <!--- 🌱 I’m currently learning ...-->
 - 💞️ I’m looking to collaborate on ...

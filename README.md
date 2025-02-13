@@ -8,6 +8,12 @@ I am an information and communication technology engineer with a focus on Front-
 # 💻 My tech stack
 ![Recurso 1](https://github.com/user-attachments/assets/76783c94-bb50-4fe8-a4fa-78ec59c90e9c)
 ![Recurso 2](https://github.com/user-attachments/assets/623d98d9-4b90-4b5f-b218-9c507afd1d2a)
+![Recurso 3](https://github.com/user-attachments/assets/bf6ffa16-828c-4cac-b972-ef3cc449dd65)
+![Recurso 4](https://github.com/user-attachments/assets/c06c6748-cb91-46df-8250-88c41d66fcfd)
+![Recurso 5](https://github.com/user-attachments/assets/c05b4685-3ba0-4715-95d9-b4f480cb94e0)
+![Recurso 7](https://github.com/user-attachments/assets/c4edfd92-4ed9-4e9e-b9f7-ab3d2f7a7886)
+![Recurso 6](https://github.com/user-attachments/assets/7cba4a16-e3c0-46fd-9979-ae4d6fa85e58)
+
 - 👀 I’m interested in ...
 
 <!--- 🌱 I’m currently learning ...-->

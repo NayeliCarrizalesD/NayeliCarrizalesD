@@ -25,6 +25,7 @@ I'm an information and communication technology engineer with a focus on Front-e
 ![Recurso 21logo](https://github.com/user-attachments/assets/c065b8af-02a4-424b-b95d-89562399f602)
 ![Recurso 20logo](https://github.com/user-attachments/assets/3771bd0c-30bd-4690-a91d-824d8adced11)
 ![Recurso 18logo](https://github.com/user-attachments/assets/38dabb5a-6b22-404d-a168-0c7da99e4e47)
+![Recurso 29logo](https://github.com/user-attachments/assets/67a911c2-3f87-4719-b7f2-5e2fe1588f6a)
 # 🛠 My Software Stack
 
 # 🚀 Essential Software

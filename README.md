@@ -1,10 +1,9 @@
 # 👋 Hi, I’m @NayeliCarrizalesD
-<!---
-> [!IMPORTANT]
-> Useful information that users should know, even when skimming content.
---->
+I´m passionate about web development with a great motivation to learn and work with new technologies. I specialize in creating modern and efficient applications, combining my knowledge in React with PostgreSQL databases to develop dynamic and scalable solutions.
+
+In addition, I have experience in projects with HTML, CSS and pure JavaScript, which allows me to thoroughly understand how the frontend works and optimize the user experience. I consider myself a responsible, committed and constantly learning person, always looking to improve my skills and stay up to date with the latest technological trends.
 # 🌱 About me
-I am an information and communication technology engineer with a focus on Front-end, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
+I'm an information and communication technology engineer with a focus on Front-end, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
 # 💻 My tech stack
 ![Recurso 1](https://github.com/user-attachments/assets/76783c94-bb50-4fe8-a4fa-78ec59c90e9c)
 ![Recurso 2](https://github.com/user-attachments/assets/623d98d9-4b90-4b5f-b218-9c507afd1d2a)

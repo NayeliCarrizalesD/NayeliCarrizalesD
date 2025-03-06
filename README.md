@@ -21,7 +21,7 @@ I'm an information and communication technology engineer with a focus on Front-e
 ![Recurso 17logo](https://github.com/user-attachments/assets/3bdfdcb5-a175-402c-b6b2-040c0b9e7737)
 # 📊 Data & Automation
 
-![Recurso 24logo](https://github.com/user-attachments/assets/ebfc2251-3f6b-402d-b792-b751e1c4362b)
+![Recurso 30logo](https://github.com/user-attachments/assets/60bfe905-6f0f-4bfd-94e5-db9b384d513e)
 ![Recurso 21logo](https://github.com/user-attachments/assets/c065b8af-02a4-424b-b95d-89562399f602)
 ![Recurso 20logo](https://github.com/user-attachments/assets/3771bd0c-30bd-4690-a91d-824d8adced11)
 ![Recurso 18logo](https://github.com/user-attachments/assets/38dabb5a-6b22-404d-a168-0c7da99e4e47)
@@ -29,9 +29,9 @@ I'm an information and communication technology engineer with a focus on Front-e
 # 🛠 My Software Stack
 
 # 🚀 Essential Software
-![Recurso 28logo](https://github.com/user-attachments/assets/93a5259f-e30b-431b-b8cb-6aa739999c17)
-![Recurso 27logo](https://github.com/user-attachments/assets/079c4c98-4d31-43fe-b37b-7b7bdf1da033)
-![Recurso 26logo](https://github.com/user-attachments/assets/54b0a1f1-4764-4a35-af70-ff44169eb28c)
+![Recurso 33logo](https://github.com/user-attachments/assets/db6bed32-b7f8-4fdd-b3aa-9de124716091)
+![Recurso 32logo](https://github.com/user-attachments/assets/d4b9d545-95eb-4678-b130-93bc1ba724f5)
+![Recurso 31logo](https://github.com/user-attachments/assets/c6710853-60dd-4911-a3b0-9579dc7cbab3)
 ![Recurso 23logo](https://github.com/user-attachments/assets/cb6eebc7-eb67-4920-8bd2-d94cd3947697)
 ![Recurso 22logo](https://github.com/user-attachments/assets/772f36df-cedf-42d7-81f1-e5d769787353)
 ![Recurso 19logo](https://github.com/user-attachments/assets/8c2a39ca-7b95-435b-af06-e0012cb2a37a)

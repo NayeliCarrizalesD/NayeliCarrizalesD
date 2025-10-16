@@ -50,6 +50,11 @@ I'm an information and communication technology engineer with a focus on Front-e
 ![Recurso 29logo](https://github.com/user-attachments/assets/67a911c2-3f87-4719-b7f2-5e2fe1588f6a)
 #
 ### 🛠 My Software Stack
+**Frontend:** React · Vite · JavaScript · TypeScript · HTML · CSS  
+**Backend & Database:** PostgreSQL  
+**Deployment:** Vercel  
+**Design:** Figma · Miro  
+**Automation & Data:** Apps Script · Google Sheets · Looker Studio 
 #
 ### 🚀 Essential Software
 ![Recurso 33logo](https://github.com/user-attachments/assets/db6bed32-b7f8-4fdd-b3aa-9de124716091)

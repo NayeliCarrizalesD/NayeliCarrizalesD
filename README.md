@@ -1,7 +1,32 @@
-# 👋 Hi, I’m @NayeliCarrizalesD
-I´m passionate about web development with a great motivation to learn and work with new technologies. I specialize in creating modern and efficient applications, combining my knowledge in React with PostgreSQL databases to develop dynamic and scalable solutions.
+# 👋 Hi, I’m **@NayeliCarrizalesD**
 
+I'm passionate about **web development** and always motivated to learn and explore new technologies.  
+I focus on building **modern, efficient, and scalable applications** using:
+
+⚛️ **React + Vite** (with **JavaScript** and **TypeScript**)  
+🐘 **PostgreSQL** for dynamic and reliable data handling  
+
+
+### 🚀 Deployment & Configuration
+I have experience setting up and deploying projects on **Vercel**, optimizing performance and ensuring smooth release workflows.
+
+
+### 🎨 Design & Prototyping
+I work with:
+- **Figma** 🖌️ for clean, responsive interface design  
+- **Miro** 🧩 for mapping user flows and planning interactions  
+
+These tools help me connect design and functionality, ensuring intuitive user experiences.
+
+
+### ⚙️ Automation & Data Visualization
+Beyond frontend development, I’m passionate about streamlining processes and working with data:
+- 🤖 Automations using **Google Apps Script** and **Google Sheets macros**  
+- 📊 Real-time **dashboards in Google Looker Studio** for data-driven insights
+
+ 
 In addition, I have experience in projects with HTML, CSS and pure JavaScript, which allows me to thoroughly understand how the frontend works and optimize the user experience. I consider myself a responsible, committed and constantly learning person, always looking to improve my skills and stay up to date with the latest technological trends.
+
 # 🌱 About me
 I'm an information and communication technology engineer with a focus on Front-end, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
 # 💻 My tech stack

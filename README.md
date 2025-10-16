@@ -1,6 +1,7 @@
 # 👋 Hi, I’m **@NayeliCarrizalesD**
 I'm passionate about **web development** and always motivated to learn and explore new technologies.  
 I focus on building **modern, efficient, and scalable applications** using:
+
 ⚛️ **React + Vite** (with **JavaScript** and **TypeScript**)  
 🐘 **PostgreSQL** for dynamic and reliable data handling  
 #

@@ -1,31 +1,53 @@
-# 👋 Hi, I’m **@NayeliCarrizalesD**
-I'm passionate about **web development** and always motivated to learn and explore new technologies.  
-I focus on building **modern, efficient, and scalable applications** using:
+# 👋 Hi, I'm Nayeli Carrizales
+### **ICT Engineer | Full Stack & Cloud Solutions | Data Automation**
 
-⚛️ **React + Vite** (with **JavaScript** and **TypeScript**)  
-🐘 **PostgreSQL** for dynamic and reliable data handling  
-#
-### 🚀 Deployment & Configuration
-I have experience setting up and deploying projects on **Vercel**, optimizing performance and ensuring smooth release workflows.
-#
-### 🎨 Design & Prototyping
-I work with:
-- **Figma** 🖌️ for clean, responsive interface design  
-- **Miro** 🧩 for mapping user flows and planning interactions  
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-nayelicarrizalesd.github.io-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nayelicarrizalesd.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nayeli--carrizales--diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayeli-carrizales-diaz/)
+[![Resume ES](https://img.shields.io/badge/CV-Español-2b7a4b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nayelicarrizalesd.github.io/CV_Nayeli_Carrizales.html)
+[![Resume EN](https://img.shields.io/badge/Resume-English-1a73e8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nayelicarrizalesd.github.io/CV_Nayeli_Carrizales_EN.html)
 
-These tools help me connect design and functionality, ensuring intuitive user experiences.
-#
-### ⚙️ Automation & Data Visualization
-Beyond frontend development, I’m passionate about streamlining processes and working with data:
-- 🤖 Automations using **Google Apps Script** and **Google Sheets macros**  
-- 📊 Real-time **dashboards in Google Looker Studio** for data-driven insights
+---
 
-In addition, I have experience in projects with HTML, CSS and pure JavaScript, which allows me to thoroughly understand how the frontend works and optimize the user experience. I consider myself a responsible, committed and constantly learning person, always looking to improve my skills and stay up to date with the latest technological trends.
-#
-### 🌱 About me
-I'm an information and communication technology engineer with a focus on Front-end, proactive and constantly updating, since I believe that we never stop learning and it is important to be prepared. I always seek to have a good relationship with my work teams and colleagues. Cooperating with everyone and supporting in the best way possible.
-#
-### 💻 My tech stack
+### 🚀 About Me
+I am an **Information and Communications Technology Engineer (Graduated with Honors)** specializing in modern software architecture, cloud-native solutions, and operational workflow automation.
+
+Currently, I engineer high-impact enterprise frontend and multi-server web platforms at **Grupo Salinas**, leveraging **GitLab** for scalable delivery and code governance. I design scalable solutions combining **React 19, Next.js 16, TypeScript, PostgreSQL, and Docker**, complemented by automated **ETL pipelines and BI dashboards** using **Google Apps Script & Google Looker Studio**, as well as cutting-edge agentic workflows with **Google Antigravity (IDE & CLI)** and **AWS Kiro IDE**.
+
+---
+
+### 💻 Core Tech Stack
+
+* **Frontend:** React 19 · Next.js 16 (App Router) · TypeScript · JavaScript (ES6+) · Tailwind CSS · Vite · Zustand · Responsive HTML5/CSS3
+* **Backend & Databases:** Node.js · Express · PostgreSQL (Neon Serverless) · Drizzle ORM · Auth0 · RESTful APIs
+* **Cloud, Containers & DevOps:** Docker · Docker Compose · Nginx Alpine · Vercel · Google Cloud Platform (Foundations)
+* **AI & Agentic Development:** Google Antigravity IDE & CLI · AWS Kiro IDE · Generative AI Orchestration
+* **Automation & Business Intelligence:** Google Apps Script · Google Looker Studio · Google Sheets API · Scheduled ETL Triggers
+* **Version Control & Quality:** GitLab (Enterprise Production) · GitHub · Git · Vitest · Cypress · ESLint
+
+---
+
+### 🏢 Featured Systems & Experience
+
+* 🏢 **Enterprise Platforms @ Grupo Salinas:**
+  * **Unified Registry (Mobile):** Enterprise registration architecture deployed nationwide for field and corporate staff.
+  * **World Cup Rally (Multi-Server):** Interactive web mini-games in Vanilla JavaScript engineered to execute across heterogeneous production environments.
+  * **Winners Search Engine & Copa Socio:** Real-time search engine and sports tournament management platform.
+* 📦 **Invento – Logistics & Inventory SaaS:**
+  * Full-stack architecture with Next.js 16, TypeScript, Neon PostgreSQL, Drizzle ORM, and multi-stage containerization with Docker & Nginx.
+* 🌊 **Taller de Mar:**
+  * High-performance e-commerce platform with React 19, TypeScript, and modern routing. *(Live at [taller-de-mar-green.vercel.app](https://taller-de-mar-green.vercel.app/))*
+* 📊 **Automated ETL & BI Dashboards (MGO Industrial & Eufonia Studios):**
+  * Automated data pipelines connecting external social media and inventory APIs into Google Sheets and Looker Studio executive dashboards.
+
+---
+
+### 🎨 Visual Tech Badges & Tools
+
+<details open>
+<summary><b>Click to expand / collapse visual gallery</b></summary>
+<br>
+
+#### 💻 Development & Frameworks
 ![Recurso 1](https://github.com/user-attachments/assets/76783c94-bb50-4fe8-a4fa-78ec59c90e9c)
 ![Recurso 2](https://github.com/user-attachments/assets/623d98d9-4b90-4b5f-b218-9c507afd1d2a)
 ![Recurso 15](https://github.com/user-attachments/assets/612d1cb8-f8ea-4db9-852d-d04da32b4a54)
@@ -40,23 +62,15 @@ I'm an information and communication technology engineer with a focus on Front-e
 ![Recurso 14](https://github.com/user-attachments/assets/204ef509-b3b9-4cd9-9d9c-2cb4f2b147c9)
 ![Recurso 13](https://github.com/user-attachments/assets/1b901678-d7ab-46f7-9494-4d9c76454752)
 ![Recurso 17logo](https://github.com/user-attachments/assets/3bdfdcb5-a175-402c-b6b2-040c0b9e7737)
-# 
-### 📊 Data & Automation
 
+#### 📊 Data & Automation
 ![Recurso 30logo](https://github.com/user-attachments/assets/60bfe905-6f0f-4bfd-94e5-db9b384d513e)
 ![Recurso 21logo](https://github.com/user-attachments/assets/c065b8af-02a4-424b-b95d-89562399f602)
 ![Recurso 20logo](https://github.com/user-attachments/assets/3771bd0c-30bd-4690-a91d-824d8adced11)
 ![Recurso 18logo](https://github.com/user-attachments/assets/38dabb5a-6b22-404d-a168-0c7da99e4e47)
 ![Recurso 29logo](https://github.com/user-attachments/assets/67a911c2-3f87-4719-b7f2-5e2fe1588f6a)
-#
-### 🛠 My Software Stack
-**Frontend:** React · Vite · JavaScript · TypeScript · HTML · CSS  
-**Backend & Database:** PostgreSQL  
-**Deployment:** Vercel  
-**Design:** Figma · Miro  
-**Automation & Data:** Apps Script · Google Sheets · Looker Studio 
-#
-### 🚀 Essential Software
+
+#### 🚀 Essential Software & Workflow
 ![Recurso 33logo](https://github.com/user-attachments/assets/db6bed32-b7f8-4fdd-b3aa-9de124716091)
 ![Recurso 32logo](https://github.com/user-attachments/assets/d4b9d545-95eb-4678-b130-93bc1ba724f5)
 ![Recurso 31logo](https://github.com/user-attachments/assets/c6710853-60dd-4911-a3b0-9579dc7cbab3)
@@ -64,27 +78,19 @@ I'm an information and communication technology engineer with a focus on Front-e
 ![Recurso 22logo](https://github.com/user-attachments/assets/772f36df-cedf-42d7-81f1-e5d769787353)
 ![Recurso 19logo](https://github.com/user-attachments/assets/8c2a39ca-7b95-435b-af06-e0012cb2a37a)
 
+</details>
 
-- 👀 I’m interested in ...!
+---
 
+### 🎯 What I'm Focused On
+- 🔭 **Working on:** Scalable cloud architectures, event-driven integrations, and AI-accelerated developer tooling.
+- 💡 **Exploring:** Advanced agentic pipelines with Google Antigravity & AI Cloud Engineering.
+- 🤝 **Collaborating on:** High-impact Open Source, Cloud, and Full-Stack enterprise solutions.
+- ⚡ **Fun fact:** I love macro photography 📸 and exploring how minimalist design connects with robust backend logic.
 
-<!--- 🌱 I’m currently learning ...-->
-- 💞️ I’m looking to collaborate on ...
-# 
-### 📫 My social networks are:
-[<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" width="50px" height="50px" fill-rule="nonzero"><g fill="#339af0" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.12,5.12)"><path d="M41,4h-32c-2.76,0 -5,2.24 -5,5v32c0,2.76 2.24,5 5,5h32c2.76,0 5,-2.24 5,-5v-32c0,-2.76 -2.24,-5 -5,-5zM17,20v19h-6v-19zM11,14.47c0,-1.4 1.2,-2.47 3,-2.47c1.8,0 2.93,1.07 3,2.47c0,1.4 -1.12,2.53 -3,2.53c-1.8,0 -3,-1.13 -3,-2.53zM39,39h-6c0,0 0,-9.26 0,-10c0,-2 -1,-4 -3.5,-4.04h-0.08c-2.42,0 -3.42,2.06 -3.42,4.04c0,0.91 0,10 0,10h-6v-19h6v2.56c0,0 1.93,-2.56 5.81,-2.56c3.97,0 7.19,2.73 7.19,8.26z"></path></g></g></svg>![icons8-linkedin](https://github.com/user-attachments/assets/5c99b1e9-32a8-4379-9ab0-62a80261016d)](https://www.linkedin.com/in/nayeli-carrizales-diaz/)
-#
--  
-- 😄 Pronouns: She / her 
-- ⚡ Fun fact: ...
+---
 
-<!-- picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-<!---
-NayeliCarrizalesD/NayeliCarrizalesD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📬 Connect With Me
+* 🌐 **Portfolio:** [nayelicarrizalesd.github.io](https://nayelicarrizalesd.github.io/)
+* 💼 **LinkedIn:** [linkedin.com/in/nayeli-carrizales-diaz](https://www.linkedin.com/in/nayeli-carrizales-diaz/)
+* ✉️ **Email:** [nayeli.carrizales.diaz@gmail.com](mailto:nayeli.carrizales.diaz@gmail.com)

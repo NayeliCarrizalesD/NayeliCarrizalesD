@@ -28,7 +28,7 @@ Currently, I engineer high-impact enterprise frontend and multi-server web platf
 
 ### 🏢 Featured Systems & Experience
 
-* 🏢 **Enterprise Platforms @ Grupo Salinas:**
+* 🏢 **Enterprise Platforms @ Grupo Salinas (Nov 2025 – Present | CDMX):**
   * **Unified Registry (Mobile):** Enterprise registration architecture deployed nationwide for field and corporate staff.
   * **World Cup Rally (Multi-Server):** Interactive web mini-games in Vanilla JavaScript engineered to execute across heterogeneous production environments.
   * **Winners Search Engine & Copa Socio:** Real-time search engine and sports tournament management platform.

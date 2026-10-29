@@ -29,9 +29,11 @@ Currently, I engineer high-impact enterprise frontend and multi-server web platf
 ### 🏢 Featured Systems & Experience
 
 * 🏢 **Enterprise Platforms @ Grupo Salinas (Nov 2025 – Present | CDMX):**
-  * **Unified Registry (Mobile):** Enterprise registration architecture deployed nationwide for field and corporate staff.
-  * **World Cup Rally (Multi-Server):** Interactive web mini-games in Vanilla JavaScript engineered to execute across heterogeneous production environments.
-  * **Winners Search Engine & Copa Socio:** Real-time search engine and sports tournament management platform.
+  * **Mobile Onboarding & Unified Registry:** Modern frontend architecture in **React 19 & Vite** deployed nationwide for corporate and field personnel.
+  * **Gamification Ecosystem (Multi-Server):** Interactive web dynamics & games (60 FPS) in **TypeScript, HTML5 Canvas, Framer Motion**, engineered across heterogeneous production servers with **Docker**.
+  * **High-Concurrency Reactive Search Engine:** Instant client-side indexing engine in **React & SCSS** built for peak concurrency spikes.
+  * **Sports Tournament Platform & PDF Reporter:** Dynamic leaderboard with automated client-side PDF reporting via **PDFMake**.
+  * **Corporate Wellbeing & Analytics Portal:** Data-driven portal featuring **ECharts**, **Zustand**, strictly typed **Zod** validation, and enterprise **IIS** deployment.
 * 📦 **Invento – Logistics & Inventory SaaS:**
   * Full-stack architecture with Next.js 16, TypeScript, Neon PostgreSQL, Drizzle ORM, and multi-stage containerization with Docker & Nginx.
 * 🌊 **Taller de Mar:**
